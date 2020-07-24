@@ -25,7 +25,6 @@ int main()
 {
     double base;
     int exponent;
-    int base, exponent;
     cout << "What is the base?: ";
     cin >> base;
     cout << "what is the exponent: ";
